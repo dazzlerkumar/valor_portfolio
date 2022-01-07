@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Valor Portfolio</title>
+        <title>Dev - Valor Portfolio</title>
         <meta name="Valor Portfolio" content="Valorant Game UI based portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

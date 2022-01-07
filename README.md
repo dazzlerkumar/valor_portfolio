@@ -26,7 +26,7 @@
   </a>
   -->
 
-  <h3 align="center" >Valor Portfolio</h3>
+  <h3 align="center" >Dev - Valor Portfolio</h3>
 
   <p align="center">
     Valorant Game UI based developer portfolio
